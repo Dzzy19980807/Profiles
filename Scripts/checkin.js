@@ -18,7 +18,7 @@ NavePnow
 */
 
 const accounts = [
-    ["MIMEMI", "https://wdnmd.co/auth/login", "username@mail.com", "password,"]
+    ["YoYu", "https://home.yoyu.pro/clientarea.php", "1281947689@qq.com", "zzy86610147,"]
 ]
 
 async function launch() {
